@@ -2,7 +2,7 @@
   "name": "玄宁茶の主页✨",
   "favicon": "/favicon.ico",
   "keywords": "remio,rem,mio,C.C.,KASUIEの次元,KASUIE的个人博客,KASUIE,个人主页,主页,个人记录,技术博客,个人生活",
-  "description": "KASUIEの次元，兴趣至上，内容随缘，个人主页",
+  "description": "玄宁茶の次元，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
     "src": "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp",
     "size": 150,
@@ -44,14 +44,14 @@
     "showFrom": true,
     "style": "desc",
     "gapDelay": 0.05,
-    "content": "Hello💫，这里是kasuieの主页",
-    "desc": "kasuie是自己胡乱起的，也可以叫我暖暖;已经毕业快两年半了，主要捣鼓一些前端，会点点后端，目标是成为一个温柔的全栈开发，好耶！🥰"
+    "content": "Hello💫，这里是玄宁茶の主页",
+    "desc": "玄宁茶是自己胡乱起的，也可以叫我糖糖;已经毕业快两年半了，主要捣鼓一些前端，会点点后端，目标是成为一个温柔的全栈开发，好耶！🥰"
   },
   "links": [
     {
       "title": "qq",
       "color": "#dfba00",
-      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
+      "url": "https://qm.qq.com/q/TuElmC0Ugu",
       "icon": "qq"
     },
     {
@@ -265,8 +265,8 @@
   "footer": {
     "text": "© 2020 - 2025 By KASUIE",
     "url": "https://kasuie.cc",
-    "ICP": "ICP备xxxxxxxx号",
-    "MPSICP": "京公网安备xxxxxxxx号",
+    "ICP": "ICP备25554635号",
+    "MPSICP": "京公网安备12215554号",
     "direction": "col-reverse",
     "isExternal": true
   },
