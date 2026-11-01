@@ -69,6 +69,12 @@
     {
       "title": "twitter",
       "color": "#1da1f2",
+{
+  "title": "抖音",
+  "color": "#000000",
+  "url": "https://v.douyin.com/Oue1gNiEAKo/",
+  "icon": "douyin"
+}
       "url": "https://x.com/qpmwao",
       "icon": "twitter"
     },
