@@ -94,9 +94,9 @@
   "sites": [
     {
       "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://kasuie.cc",
-      "desc": "博客主页"
+      "title": "玄宁茶の新世界",
+      "url": "https://t.co/bCN2NTfFrA",
+      "desc": "新世界哦"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
@@ -106,7 +106,7 @@
     },
     {
       "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "KASUIEのAI",
+      "title": "玄宁茶のAI",
       "url": "https://ai.kasuie.cc",
       "desc": "ChatGPT"
     },
@@ -130,14 +130,14 @@
     },
     {
       "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEのDocs",
+      "title": "xnc's group",
       "url": "https://docs.kasuie.cc",
       "desc": "文档服务"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "杂七杂八",
-      "desc": "阿巴阿巴..."
+      "title": "东西？",
+      "desc": "捐赠……..."
     },
     {
       "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
@@ -147,7 +147,7 @@
     },
     {
       "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
+      "title": "玄宁茶の次元",
       "url": "https://hexo.kasuie.cc",
       "desc": "Hexo版本博客程序"
     },
@@ -177,7 +177,7 @@
     },
     {
       "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
-      "title": "KASUIEの导航",
+      "title": "玄宁茶の导航",
       "url": "https://pixlips.github.io",
       "desc": "导航页(beta)"
     }
