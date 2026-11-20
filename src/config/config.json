@@ -89,6 +89,12 @@
       "color": "#0088cc",
       "url": "https://space.bilibili.com/85447052",
       "icon": "bilibili"
+    },
+    {
+      "title": "捐赠支持",
+      "color": "#ff4757",
+      "url": "/donate.html",
+      "icon": "heart"
     }
   ],
   "sites": [
