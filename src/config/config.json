@@ -1,8 +1,8 @@
 {
   "name": "玄宁茶の主页✨",
   "favicon": "/favicon.ico",
-  "keywords": "remio,rem,mio,C.C.,个人主页,主页,个人记录,技术博客,个人生活",
-  "description": "玄宁茶の次元，兴趣至上，内容随缘，个人主页",
+  "keywords": "remio,rem,mio,C.C.,个人主页,主页,个人记录,个人生活",
+  "description": "玄宁茶の家，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
     "src": "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp",
     "size": 150,
@@ -53,12 +53,6 @@
       "color": "#dfba00",
       "url": "https://qm.qq.com/q/TuElmC0Ugu",
       "icon": "qq"
-    },
-    {
-      "title": "telegram",
-      "color": "#1da1f2",
-      "url": "https://t.me/替换为你的TG账号",
-      "icon": "telegram"
     },
     {
       "title": "github",
