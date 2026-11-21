@@ -268,7 +268,9 @@
     "isExternal": true
   },
   "resources": {
-    "css": [],
+    "css": [
+      "https://cdn.jsdelivr.net/gh/kituya404/cdn-remark@main/avatar-circle.css"
+    ],
     "js": [],
     "bodyHtml": ""
   },
