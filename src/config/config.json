@@ -4,7 +4,7 @@
   "keywords": "remio,rem,mio,C.C.,个人主页,主页,个人记录,个人生活",
   "description": "玄宁茶の家，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
-    "src": "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp",
+    "src": "shturl.cc/IgvNN80kyNCUll55XMmLrxFLTzOwSgYi6qC4j0Fgwy9BdVBeRPAi",
     "size": 150,
     "round": "full",
     "style": "wave",
@@ -94,7 +94,7 @@
   "sites": [
     {
       "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "新业导航",
+      "title": "玄宁茶の新世界",
       "url": "https://t.co/bCN2NTfFrA",
       "desc": "新世界哦"
     },
@@ -106,7 +106,7 @@
     },
     {
       "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "玄宁茶本尊AI",
+      "title": "玄宁茶のAI",
       "url": "https://ai.kasuie.cc",
       "desc": "ChatGPT"
     },
@@ -118,7 +118,7 @@
     },
     {
       "icon": "https://cs.kasuie.cc/icons/0d2e7fe7-3cca-4989-9bb4-4a39cee77801.png!cover",
-      "title": "玄宁茶の图床",
+      "title": "KASUIEの图床",
       "url": "https://upload.kasuie.cc",
       "desc": "图床服务"
     },
@@ -154,7 +154,7 @@
     },
     {
       "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "玄宁茶の次元",
+      "title": "KASUIEの次元",
       "url": "https://v3.kasuie.cc",
       "desc": "上版本的博客程序(服务关了)"
     },
@@ -162,23 +162,23 @@
       "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
       "title": "KASUIEの次元",
       "url": "https://v2.kasuie.cc",
-      "desc": "book(v2)"
+      "desc": "早期博客主题(v2)"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
       "title": "KASUIEの次元",
       "url": "https://v1.kasuie.cc",
-      "desc": "book(v1)"
+      "desc": "早期博客主题(v1)"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "xncの次元",
+      "title": "KASUIEの次元",
       "url": "https://v0.kasuie.cc",
       "desc": "早期博客主题(v0)"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
-      "title": "网页导航",
+      "title": "玄宁茶の导航",
       "url": "https://pixlips.github.io",
       "desc": "导航页(beta)"
     }
@@ -191,7 +191,7 @@
     "hoverFlip": true,
     "direction": "row",
     "modal": true,
-    "modalTips": "这里大多都是偷师学艺的，算是练手的，技术力不高，看起来也很不好看，算是黑历史，但也算是一段记忆的载体了，所以我想把它保存在此。",
+    "modalTips": "这里大多都是初学时开发的，算是练手的，技术力不高，看起来也很不好看，算是黑历史，但也算是一段记忆的载体了，所以我想把它保存在此。",
     "modalTitle": ""
   },
   "socialConfig": {
@@ -263,7 +263,7 @@
     "text": "© 2020 - 2025 By 玄宁茶",
     "url": "https://kasuie.cc",
     "ICP": "ICP备25554635号",
-    "MPSICP": "京公网安备00000001号",
+    "MPSICP": "京公网安备12215554号",
     "direction": "col-reverse",
     "isExternal": true
   },
