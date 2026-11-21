@@ -4,7 +4,7 @@
   "keywords": "remio,rem,mio,C.C.,个人主页,主页,个人记录,个人生活",
   "description": "玄宁茶の家，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
-    "src": "shturl.cc/IgvNN80kyNCUll55XMmLrxFLTzOwSgYi6qC4j0Fgwy9BdVBeRPAi",
+    "src": "https://s41.ax1x.com/2026/11/21/pnqYUUO.jpg",
     "size": 150,
     "round": "full",
     "style": "wave",
@@ -93,7 +93,7 @@
   ],
   "sites": [
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
+      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b74311.webp!cover",
       "title": "玄宁茶の新世界",
       "url": "https://t.co/bCN2NTfFrA",
       "desc": "新世界哦"
@@ -123,13 +123,13 @@
       "desc": "图床服务"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
+      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b74311.webp!cover",
       "title": "监控服务",
       "url": "https://status.kasuie.cc/status",
       "desc": "服务程序监控"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
+      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b74311.webp!cover",
       "title": "xnc's group",
       "url": "https://docs.kasuie.cc",
       "desc": "文档服务"
@@ -153,7 +153,7 @@
       "desc": "Hexo版本博客程序"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
+      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b74311.webp!cover",
       "title": "KASUIEの次元",
       "url": "https://v3.kasuie.cc",
       "desc": "上版本的博客程序(服务关了)"
@@ -191,7 +191,7 @@
     "hoverFlip": true,
     "direction": "row",
     "modal": true,
-    "modalTips": "这里大多都是初学时开发的，算是练手的，技术力不高，看起来也很不好看，算是黑历史，但也算是一段记忆的载体了，所以我想把它保存在此。",
+    "modalTips": "这里大多都是初学时开发的，算是练手的，技术力不高，看起来也不好看，算是黑历史，但也算是一段记忆的载体了，所以我想把它保存在此。",
     "modalTitle": ""
   },
   "socialConfig": {
@@ -263,7 +263,7 @@
     "text": "© 2020 - 2025 By 玄宁茶",
     "url": "https://kasuie.cc",
     "ICP": "ICP备25554635号",
-    "MPSICP": "京公网安备12215554号",
+    "MPSICP": "京公网安备1221554号",
     "direction": "col-reverse",
     "isExternal": true
   },
