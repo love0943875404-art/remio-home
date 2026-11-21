@@ -262,17 +262,15 @@
   "footer": {
     "text": "© 2020 - 2025 By 玄宁茶",
     "url": "https://kasuie.cc",
-    "ICP": "ICP备25554635号",
+    "ICP": "ICP备2554635号",
     "MPSICP": "京公网安备1221554号",
     "direction": "col-reverse",
     "isExternal": true
   },
   "resources": {
-    "css": [
-      "https://cdn.jsdelivr.net/gh/kituya404/cdn-remark@main/avatar-circle.css"
-    ],
+    "css": [],
     "js": [],
-    "bodyHtml": ""
+    "bodyHtml": "<style>/* 强制头像正圆 */.avatar-container,.avatar-box,.avatar-wrapper,.avatar{width:150px!important;height:150px!important;border-radius:50%!important;overflow:hidden!important}.avatar img{width:100%!important;height:100%!important;object-fit:cover!important;object-position:center;border-radius:50%!important}/* 外层光环也强制圆形 */.avatar-ring,.avatar-glow,[class*='avatar-ring']{width:180px!important;height:180px!important;border-radius:50%!important}</style>"
   },
   "domain": "https://remio-home.vercel.app"
 }
